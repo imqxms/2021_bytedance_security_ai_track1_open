@@ -10,7 +10,7 @@
 ## 相关链接
 
 - 比赛地址：[https://security.bytedance.com/fe/ai-challenge#/sec-project?id=1&active=0](https://security.bytedance.com/fe/ai-challenge#/sec-project?id=1&active=0)
-- 答辩视频（待上传）：
+- 答辩视频：[https://www.bilibili.com/video/BV1za411z75D](https://www.bilibili.com/video/BV1za411z75D/)
 - 项目总结：[https://www.dreamwings.cn/2021_bytedance_security_ai_track1/5828.html](https://www.dreamwings.cn/2021_bytedance_security_ai_track1/5828.html)
 - 答辩 PPT：[ECNU_ICA 答辩 PPT.pdf](./tutorial/ECNU_ICA答辩PPT.pdf)
 - 技术明细：[ECNU_ICA 技术明细.pdf](./tutorial/ECNU_ICA技术明细.pdf)
